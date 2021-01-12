@@ -1,0 +1,10 @@
+body{
+    
+    font-family: 'Hachi Maru Pop', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
